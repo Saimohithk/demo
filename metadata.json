@@ -1,0 +1,6 @@
+{
+  "name": "Atelier d'Or — Contemporary Specialty Café",
+  "description": "An editorial 3D spatial experience for contemporary specialty coffee. Slow mornings, thoughtful brews, and beautifully unexpected moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
